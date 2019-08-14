@@ -1,4 +1,2 @@
-Hi, my name is
-# Joowon Kim
-## I'm an aspiring Software Engineer
-
+## Personal Website github repo
+- built using boostrap, js, html, css
