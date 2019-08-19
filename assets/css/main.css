@@ -1311,14 +1311,14 @@ input, select, textarea {
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll; */
-		background:url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png);
+		background:url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/email-pattern.png);
 
 
-	   	-webkit-animation:100s scroll infinite linear;
-	   -moz-animation:100s scroll infinite linear;
-	   -o-animation:100s scroll infinite linear;
-	   -ms-animation:100s scroll infinite linear;
-	   animation: 100s scroll infinite linear;
+	   	-webkit-animation:250s scroll infinite linear;
+	   -moz-animation:250s scroll infinite linear;
+	   -o-animation:250s scroll infinite linear;
+	   -ms-animation:250s scroll infinite linear;
+	   animation: 250s scroll infinite linear;
 	   top:0;
 	   left:0;
 	   width:100%;
@@ -1819,7 +1819,7 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #ffffff;
+			color: skyblue;
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
